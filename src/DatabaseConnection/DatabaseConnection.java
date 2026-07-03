@@ -11,7 +11,7 @@ public class DatabaseConnection {
 
     private static final String URL = "jdbc:postgresql://localhost:5432/Test";
     private static final String USER = "postgres";
-    private static final String PASSWORD = "G3nn4r0.25";
+    private static final String PASSWORD = "francesco";
 
     private DatabaseConnection() throws SQLException {
         try {
